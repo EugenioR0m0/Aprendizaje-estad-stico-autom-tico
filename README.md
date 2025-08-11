@@ -30,4 +30,4 @@ La base de datos cuenta con la siguiente información:
 
 - [Reporte en ipynb](A1.1/612348.ipynbb)
 - [Reporte en html](A1.1/612348.html)
-- [Base de datos](A1.1/612348.ipynbb)
+- [Base de datos](A1.1/Obesidad.csv)
