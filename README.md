@@ -27,3 +27,5 @@ La base de datos cuenta con la siguiente información:
   - *Overweight_Level_II*: 30.0 ≤ IMC ≤ 34.9  
   - *Obesity_Type_I*: 35.0 ≤ IMC ≤ 39.9  
   - *Obesity_Type_III*: IMC > 40.0  
+
+- [Reporte en ipynb](A1.1 612348.ipynb)
